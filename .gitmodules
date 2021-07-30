@@ -1,0 +1,4 @@
+[submodule "apps"]
+	path = apps
+	url = https://github.com/JulianTobio/test-apps.git
+	branch = dev
